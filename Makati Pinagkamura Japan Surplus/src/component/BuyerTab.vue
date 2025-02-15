@@ -1,6 +1,9 @@
 <template>
     <div class="buyer-tab">
         <h1 class="title">Buyer's Tab</h1>
+        <ul>
+            <li>Item 1:</li>
+        </ul>
     </div>
 </template>
 <script></script>
